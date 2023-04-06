@@ -55,7 +55,7 @@ Arduino Code for Smart Pot
 
 
 ### 3. 데이터베이스 설계
-![DB설계](https://user-images.githubusercontent.com/81201101/160826491-e3d45be0-9e5a-4999-9bb9-3ba6fa9c6437.png)
+![KakaoTalk_20230406_194022498](https://user-images.githubusercontent.com/129836696/230354919-11629b30-563a-4693-baaf-9b24358ebdd6.png)
 
 
 ### 4. 기능 구현
