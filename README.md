@@ -1,9 +1,6 @@
 # Capstone2023_SmartPot
 Arduino Code for Smart Pot
 
-# LearnChart
-쉽게 만드는 포트폴리오 사이트
-
 ## 목차
   - [목차](#목차)
   - [Ⅰ. 프로젝트 실행 동기 및 목적](#ⅰ-프로젝트-실행-동기-및-목적)
