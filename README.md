@@ -28,7 +28,7 @@
  <!--일정계획 -->
  
   ## plan ⏰ 
-  <img src="https://github.com/ekdms06/Capstone2023_SmartPot/assets/129836696/9c03cbe3-6d44-4e34-a26a-3a0949868552" width="650" height="350"/>
+  <img src="https://github.com/ekdms06/Capstone2023_SmartPot/assets/129836696/9c03cbe3-6d44-4e34-a26a-3a0949868552" width="800" height="400"/>
 
 
  <br/>
