@@ -5,7 +5,7 @@
 <div align= justify>
 <!--소개-->
 
-## Introduction 🍇:
+## Introduction 🍇
  Capstone2023_SmartPot
 <br>I'm going to develop a smart flowerpot with automatic sensors😎
 <br/><br/>
@@ -16,7 +16,7 @@
   - kim so hyun
   - oh sungtack
  <!--기술스택-->
-  ## Skills Used 🍆:
+  ## Skills Used 🍆
 
   <img src="https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white"/>
   <img src="https://img.shields.io/badge/Raspberrypi-A22846C?style=flat&logo=raspberrypi&logoColor=white"/>
