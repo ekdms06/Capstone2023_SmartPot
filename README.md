@@ -7,7 +7,7 @@
 
 ## Introduction 🍇
  Capstone2023_SmartPot
-<br>I'm going to develop a smart flowerpot with automatic sensors😎
+<br>I'm going to develop a smart pot with automatic sensors😎
 <br/><br/>
  
  ## member 👫
