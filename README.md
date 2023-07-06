@@ -14,7 +14,7 @@
   - jang sujin
   - yoo daeun
   - kim so hyun
-  - oh sungtack
+  - oh sungtaek
  <!--기술스택-->
   ## Skills Used 🍆
 
