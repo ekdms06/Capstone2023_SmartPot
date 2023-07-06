@@ -13,7 +13,7 @@
  ## member 👫
   - jang sujin
   - yoo daeun
-  - kim so hyeon
+  - kim sohyeon
   - oh sungtaek
  <!--기술스택-->
   ## Skills Used 🍆
