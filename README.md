@@ -20,8 +20,7 @@
 
   <img src="https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white"/>
   <img src="https://img.shields.io/badge/Raspberrypi-A22846C?style=flat&logo=raspberrypi&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JSP-pink?style=flat&logo=JSP&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html&logoColor=white">
 
 <br/><br/>
 
