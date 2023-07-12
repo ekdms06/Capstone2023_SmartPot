@@ -34,4 +34,4 @@
 
 </div>
 
-최종 ppt발표 자료는 [여기](https://drive.google.com/drive/folders/1aJ119dvExqDGi_7gZgYFealBzAKLN4rv?usp=sharing)에서 다운로드 할 수 있습니다.
+모든 ppt발표 자료는 [여기](https://drive.google.com/drive/folders/1aJ119dvExqDGi_7gZgYFealBzAKLN4rv?usp=sharing)에서 다운로드 할 수 있습니다.
